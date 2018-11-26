@@ -1,0 +1,336 @@
+{"list":[
+	  {
+	  	"id":1,
+	  	"src2":"./src/assets/images/singDt.png",
+	  	"name":"天空",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"王源 — 天使",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/727448178.jpg"
+	  },
+	  {
+	  	"id":2,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"疤",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"胡彦斌 — 疤",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/3463363075.jpg"
+	  },
+	  {
+	  	"id":3,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"日不落（DNF阿破克烈版）",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"DNF群星 — 日不落（DNF阿破克烈版）",
+	    "img":"./src/assets/images/singDom.png",
+	    "video":"./src/assets/images/singMv.png",
+	    "img2":"./src/assets/images/3856918508.jpg"
+	  },
+	  {
+	  	"id":4,
+	  	"src2":"./src/assets/images/singDt.png",
+	  	"name":"真相",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"A-Lin — 真相",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/3921624836.jpg"
+	  },
+	  {
+	  	"id":5,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"我们",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"林俊杰 — 梦想的声音第三季 第4期",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/3045534957.jpg"
+	  },
+	  {
+	  	"id":6,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"烙印",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"李琦 — 烙印",
+	    "img":"./src/assets/images/singDom.png",
+	    "video":"./src/assets/images/singMv.png",
+	    "img2":"./src/assets/images/641483648.jpg"
+	  },
+	  {
+	  	"id":7,
+	  	"src2":"./src/assets/images/singDt.png",
+	  	"name":"冲鸭冲鸭-(游戏《光明勇士》主题曲)",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"火箭少女101杨超越 — 冲鸭冲鸭",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/439654540.jpg"
+	  },
+	  {
+	  	"id":8,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"零界点(On fire)(live)",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"鹿晗&AR(刘夫阳) — 2018鹿晗RE：X巡回演唱会",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/3045534957.jpg"
+	  },
+	  {
+	  	"id":9,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"那一夜",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"G.E.M.邓紫棋 — 中国音乐公告牌 第11期",
+	    "img":"./src/assets/images/singDom.png",
+	    "video":"./src/assets/images/singMv.png",
+	    "img2":"./src/assets/images/1384195086.jpg"
+	  },
+	  {
+	  	"id":10,
+	  	"src2":"./src/assets/images/singDt.png",
+	  	"name":"杀不死我的终将使我强大-(电影《惊涛飓浪》全球中文推广曲)",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"张天 — 杀不死我的终将使我强大",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/900023322.jpg"
+	  },
+	  {
+	  	"id":11,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"荒人之歌-(影视剧《将夜》插曲)",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"王晰 — 荒人之歌",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/275239195.jpg"
+	  },
+	  {
+	  	"id":12,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"星光-(脱贫攻坚战《星光行动》主题)",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"王力宏 — 星光",
+	    "img":"./src/assets/images/singDom.png",
+	    "video":"./src/assets/images/singMv.png",
+	    "img2":"./src/assets/images/4261605422.jpg"
+	  },
+	  {
+	  	"id":12,
+	  	"src2":"./src/assets/images/singDt.png",
+	  	"name":"感谢-（电视剧《人不彪悍枉少年》推广曲）",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"火箭少女101李紫婷 — 感谢",
+	    "img":"./src/assets/images/singDom.png",
+	    "video":"./src/assets/images/singMv.png",
+	    "img2":"./src/assets/images/3025424600.jpg"
+	  },
+	  {
+	  	"id":14,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"关于你的故事",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"叶炫清 — 关于你的故事",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/1730553296.jpg"
+	  },
+	  {
+	  	"id":15,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"不说永远",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"南征北战NZBZ — 不说永远",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/2467544694.jpg"
+	  },
+	  {
+	  	"id":16,
+	  	"src2":"./src/assets/images/singDt.png",
+	  	"name":"For You",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"高颖浠 — For You",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/3786394481.jpg"
+	  },
+	  {
+	  	"id":17,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"断弦歌",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"叶洛洛 — 断弦歌",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/1659690150.jpg"
+	  },
+	  {
+	  	"id":18,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"咖啡冒泡",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"岑宁儿 — Nothing is Under Control",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/1750011365.jpg"
+	  },
+	  {
+	  	"id":19,
+	  	"src2":"./src/assets/images/singDt.png",
+	  	"name":"我的童年",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"王源 — 一样",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/1879557721.jpg"
+	  },
+	  {
+	  	"id":20,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"青春料理-（《完美的餐厅》主题曲）",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"陈意涵[创造101]&李子璇 — 青春料理",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/3856918508.jpg"
+	  },
+	  {
+	  	"id":21,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"1234",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"韩安旭 — 1234",
+	    "img":"./src/assets/images/singDom.png",
+	    "video":"./src/assets/images/singMv.png",
+	    "img2":"./src/assets/images/3463363075.jpg"
+	  },
+	  {
+	  	"id":22,
+	  	"src2":"./src/assets/images/singDt.png",
+	  	"name":"胡广生-(电影《无名之辈》宣传推广曲)",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"任素汐 — 胡广生",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/3856918508.jpg"
+	  },
+	  {
+	  	"id":23,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"非你不求",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"王蓉 — 非你不求",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/3463363075.jpg"
+	  },
+	  {
+	  	"id":24,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"天气预爆-(电影《天气预爆》同名主题曲)",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"筷子兄弟 — 天气预爆",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/3856918508.jpg"
+	  },
+	  {
+	  	"id":25,
+	  	"src2":"./src/assets/images/singDt.png",
+	  	"name":"风雨同行",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"韩磊&王聆燕 — 风雨同行",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/3463363075.jpg"
+	  },
+	  {
+	  	"id":26,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"怒火",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"摩登兄弟 — 怒火",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/3856918508.jpg"
+	  },
+	  {
+	  	"id":27,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"我就爱你啊",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"陈志朋 — 我就爱你啊",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/3463363075.jpg"
+	  },
+	  {
+	  	"id":28,
+	  	"src2":"./src/assets/images/singDt.png",
+	  	"name":"着魔(DNF魔法师职业主题曲)",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"SNH48 — 着魔",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/3856918508.jpg"
+	  },
+	  {
+	  	"id":29,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"初恋夏天",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"Panda猫 — 初恋的夏天",
+	    "img":"./src/assets/images/singDom.png",
+	    "video":"./src/assets/images/singMv.png",
+	    "img2":"./src/assets/images/3463363075.jpg"
+	  },
+	  {
+	  	"id":30,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"红眼",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"宋佳 — HER",
+	    "img":"./src/assets/images/singDom.png",
+	    "video":"./src/assets/images/singMv.png",
+	    "img2":"./src/assets/images/3856918508.jpg"
+	  },
+	  {
+	  	"id":31,
+	  	"src2":"./src/assets/images/singDt.png",
+	  	"name":"Different Game(feat. Gucci Mane)",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"王嘉尔&Gucci Mane — Different Game",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/3463363075.jpg"
+	  },
+	  {
+	  	"id":32,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"生而为爱",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"何洁 — 生而为爱",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/3856918508.jpg"
+	  },
+	  {
+	  	"id":33,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"(一个男人)一个女人和浴室",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"谢安琪&古天乐 — (一个男人)一个女人和浴室",
+	    "img":"./src/assets/images/singDom.png",
+	    "video":"./src/assets/images/singMv.png",
+	    "img2":"./src/assets/images/3463363075.jpg"
+	  },
+	  {
+	  	"id":34,
+	  	"src2":"./src/assets/images/singDt.png",
+	  	"name":"兄弟-(超级网剧《千门江湖》主题曲)",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"宁桓宇 — 兄弟",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/3856918508.jpg"
+	  },
+	  {
+	  	"id":35,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"晴阵雨",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"雨宝 — 晴阵雨",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/3463363075.jpg"
+	  },
+	  {
+	  	"id":36,
+	  	"src2":"./src/assets/images/singDt.png",
+	    "name":"夜-(影视剧《古剑奇谭2》沈夜人物曲)",
+	    "src":"./src/assets/images/singWs.png",
+	    "txt":"王晰 — 夜",
+	    "img":"./src/assets/images/singDom.png",
+	    "img2":"./src/assets/images/3856918508.jpg"
+	  }
+]
+}

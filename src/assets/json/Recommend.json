@@ -1,0 +1,88 @@
+
+{"list":[
+	  {
+	  	"id":1,
+	  	"name":"华语",
+	    "src":"./src/assets/images/imgBg.png",
+	    "img":"./src/assets/images/1426644406311_.jpg"
+	  },
+	  {
+	  	"id":2,
+	  	"name":"欧美",
+	    "src":"./src/assets/images/imgBg.png",
+	    "img":"./src/assets/images/1426644445642_.jpg"
+	  },
+	  {
+	  	"id":3,
+	  	"name":"日韩",
+	    "src":"./src/assets/images/imgBg.png",
+	    "img":"./src/assets/images/1426644430456_.jpg"
+	  }
+],
+"list2":[
+	  {
+	  	"id":1,
+	    "src":"./src/assets/images/1533950060422_257659933b.jpg",
+	    "con":"【怀旧】一人一首粤语经典（男声篇）"
+	  },
+	  {
+	  	"id":2,
+	    "src":"./src/assets/images/1533892287124_441218533_700.jpg",
+	    "con":"一入抖音深似海，从此腿抖不能改"
+	  },
+	  {
+	  	"id":3,
+	    "src":"./src/assets/images/1533294815595_223778589_700.jpg",
+	    "con":"【欧美男声】柔情大叔,最为致命～"
+	  },
+	  {
+	  	"id":4,
+	    "src":"./src/assets/images/1533806512592_195724664b.jpg",
+	    "con":"「华语」所谓失恋，就是突然听懂了所有情歌"
+	  },
+	  {
+	  	"id":5,
+	    "src":"./src/assets/images/1534304652402_431441352b.jpg",
+	    "con":"【电音】震撼心灵的超强音浪"
+	  },
+	  {
+	  	"id":6,
+	    "src":"./src/assets/images/1534492533531_413836986b.jpg",
+	    "con":"【轻音乐】渔舟唱晚，雁阵惊寒"
+	  }
+],
+"list3":[
+	  {
+	  	"id":1,
+	    "src":"./src/assets/images/1389668636029_131161167b.jpg",
+	    "con":"酷我音乐调频"
+	  },
+	  {
+	  	"id":2,
+	    "src":"./src/assets/images/1389668815807_131161167b.jpg",
+	    "con":"吐小曹扒新闻"
+	  },
+	  {
+	  	"id":3,
+	    "src":"./src/assets/images/1389668498635_131161167b.jpg",
+	    "con":"《莫萱日记》音乐小品"
+	  }
+],
+"list4":[
+	  {
+	  	"id":1,
+	    "src":"./src/assets/images/1538736951513_22943993.jpg",
+	    "con":"音域╰❥蜜桃"
+	  },
+	  {
+	  	"id":2,
+	    "src":"./src/assets/images/1540894019999_22943993.jpg",
+	    "con":"音域╰❥小星星"
+	  },
+	  {
+	  	"id":3,
+	    "src":"./src/assets/images/1536301502667_22943993.jpg",
+	    "con":"TT第一女团"
+	  }
+]
+}

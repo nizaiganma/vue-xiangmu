@@ -1,0 +1,50 @@
+{"list":[
+	  {
+	  	"id":1,
+	    "src":"./src/assets/images/1542708020.png",
+	    "txt":"酷我热歌榜",
+	    "txt2":"共200首歌曲"
+	  },
+	  {
+	  	"id":2,
+	    "src":"./src/assets/images/1542708017.png",
+	    "txt":"酷我新歌榜",
+	    "txt2":"共200首歌曲"
+	  },
+	  {
+	  	"id":3,
+	    "src":"./src/assets/images/1542708022.png",
+	    "txt":"酷我飙升榜",
+	    "txt2":"共200首歌曲"
+	  },
+	  {
+	  	"id":4,
+	    "src":"./src/assets/images/1542708023.png",
+	    "txt":"短视频热歌榜",
+	    "txt2":"王源 — 天使"
+	  },
+	  
+	  {
+	  	"id":5,
+	    "src":"./src/assets/images/1542708018.png",
+	    "txt":"梦想的声音第三季",
+	    "txt2":"共41首歌曲"
+	  },
+	  {
+	  	"id":6,
+	    "src":"./src/assets/images/1542708025.png",
+	    "txt":"蒙面唱将第三季",
+	    "txt2":"共34首歌曲"
+	  },
+	  {
+	  	"id":7,
+	    "src":"./src/assets/images/1539675864766_.png",
+	    "txt":"由你音乐榜"
+	  },
+	  {
+	  	"id":8,
+	    "src":"./src/assets/images/1542708027.png",
+	    "txt":"酷我单曲畅销榜"
+	  }
+]
+}
