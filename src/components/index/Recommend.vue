@@ -242,8 +242,8 @@ img.playhover{
 	position: absolute;
 	top:50%;
 	left:50%;
-	width:52px;
-	height:52px;
+	width:5%;
+	height:5%;
 	margin-left:-26px;
 	margin-top:-26px;
 }
